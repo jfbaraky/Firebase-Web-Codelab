@@ -1,0 +1,27 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      node C:\Documents and Settings\Admin\Dados de aplicativos\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.6.1
+[debug] Platform:     win32
+[debug] Node Version: v0.10.28
+[debug] Time:         Mon Apr 17 2017 12:41:31 GMT-0300 (Hora oficial do Brasil)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendlychat-b2405  
+ Mon Apr 17 2017 12:41:31 GMT-0300 (Hora oficial do Brasil)
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendlychat-b2405/tokens  
+ Mon Apr 17 2017 12:41:34 GMT-0300 (Hora oficial do Brasil)
+[debug] <<< HTTP RESPONSE 200
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Player2\friendlychat-master\web-start
+[debug] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-b2405  
+ Mon Apr 17 2017 12:41:35 GMT-0300 (Hora oficial do Brasil)
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/167108091683/clients/_:getWebAppConfig  
+ Mon Apr 17 2017 12:41:37 GMT-0300 (Hora oficial do Brasil)
+[debug] <<< HTTP RESPONSE 200
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
